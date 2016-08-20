@@ -5,14 +5,28 @@ body {
   font-family: ruluko, sans-serif;
   color: #4f4114;
   background-color: #f5fec9;
+  text-align: center;
 }
 
 h1 {
-  font-size: 38px;
+  font-size: 70px;
   font-family: spirax, sans-serif;
   color: #83e444;
 }
 
 a {
   color: #00B7FF;
+}
+
+footer {
+  font-size: 14px;
+  position: absolute;
+  background-color: #fff;
+  border-style: dotted;
+  border-bottom-style: none;
+  border-color: #000;
+  border-width: 3px;
+  left: 40%;
+  right: 40%;
+  bottom: 0;
 }
