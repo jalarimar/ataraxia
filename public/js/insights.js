@@ -6,3 +6,4 @@
 
     window.appInsights=appInsights;
     appInsights.trackPageView();
+console.log("Ur so men")
