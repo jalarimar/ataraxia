@@ -1,18 +1,14 @@
 body {
   padding: 50px;
-  //font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-family: ruluko, sans-serif;
   color: #4f4114;
-  background-color: #f5fec9;
-}
+  background-color: #f5fec9; }
 
 h1 {
   font-size: 38px;
   font-family: spirax, sans-serif;
-  color: #83e444;
-}
+  color: #83e444; }
 
 a {
-  color: #00B7FF;
-}
+  color: #00B7FF; }
