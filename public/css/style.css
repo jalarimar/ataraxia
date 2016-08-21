@@ -12,7 +12,24 @@ h1 {
   color: #83e444; }
 
 a {
-  color: #00B7FF; }
+  color: inherit;
+  text-decoration: none; }
+
+button {
+  font-size: 14px;
+  font-family: ruluko, sans-serif;
+  color: #4f4114; }
+
+#fp {
+  padding: 30px;
+  border: solid;
+  border-width: 5px;
+  color: #fff;
+  border-color: #83e444;
+  background-color: #675723; }
+
+#fp:hover {
+  background-color: #52451c; }
 
 footer {
   font-size: 14px;
