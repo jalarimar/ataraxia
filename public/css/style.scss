@@ -4,7 +4,7 @@ body {
   font-size: 18px;
   font-family: ruluko, sans-serif;
   color: #4f4114;
-  background-color: #f5fec9;
+  background-color: #4f4114;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ a {
 }
 
 #fp {
-  font-size: 14px;
+  font-size: 15px;
   font-family: ruluko, sans-serif;
   color: #4f4114;
   padding: 30px;
@@ -32,17 +32,30 @@ a {
 }
 
 #fp:hover {
+  font-size: 16px;
   background-color: #52451c;
+}
+
+div.content {
+  background-color: #f5fec9;
+  position: absolute;
+  border: solid;
+  border-width: 10px;
+  border-left-color: #83e444;
+  border-right-color: #83e444;
+  left: 20%;
+  right: 20%;
 }
 
 footer {
   font-size: 14px;
   position: absolute;
-  background-color: #fff;
+  box-shadow: 0px 0px 0px 2px #83e444;
+  background-color: #f5fec9;
   border-style: dotted;
   border-bottom-style: none;
-  border-color: #000;
-  border-width: 3px;
+  border-color: #83e444;
+  border-width: 2px;
   left: 40%;
   right: 40%;
   bottom: 0;
