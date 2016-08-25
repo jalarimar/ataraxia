@@ -11,6 +11,9 @@ h1 {
   font-family: spirax, sans-serif;
   color: #83e444; }
 
+p {
+  margin: 20px; }
+
 a {
   color: inherit;
   text-decoration: none; }
@@ -30,6 +33,10 @@ a {
   font-size: 16px;
   background-color: #52451c; }
 
+#hid {
+  text-transform: capitalize;
+  white-space: pre-line; }
+
 div.content {
   background-color: #f5fec9;
   position: absolute;
@@ -39,6 +46,20 @@ div.content {
   border-right-color: #83e444;
   left: 20%;
   right: 20%; }
+
+div.page {
+  font-size: 16px;
+  background-color: #f5fec9;
+  position: absolute;
+  top: 15px;
+  left: 20%;
+  right: 20%;
+  bottom: 0px; }
+
+div.poke {
+  position: absolute;
+  right: 0px;
+  bottom: 0px; }
 
 footer {
   font-size: 14px;

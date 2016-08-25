@@ -5,6 +5,8 @@ body {
   font-family: ruluko, sans-serif;
   color: #4f4114;
   background-color: #4f4114;
+  //background-image: url("https://www.colourbox.com/preview/3044991-dark-seamless-pattern-with-green-leaves-vector.jpg");
+  //http://previews.123rf.com/images/OlgaDrozdova/OlgaDrozdova1210/olgadrozdova121000012/15629266-Bianco-e-verde-seamless-floreale-con-riccioli-e-farfalle-Archivio-Fotografico.jpg
   text-align: center;
 }
 
@@ -12,6 +14,10 @@ h1 {
   font-size: 70px;
   font-family: spirax, sans-serif;
   color: #83e444;
+}
+
+p {
+  margin: 20px;
 }
 
 a {
@@ -36,6 +42,11 @@ a {
   background-color: #52451c;
 }
 
+#hid {
+  text-transform: capitalize;
+  white-space: pre-line;
+}
+
 div.content {
   background-color: #f5fec9;
   position: absolute;
@@ -45,6 +56,22 @@ div.content {
   border-right-color: #83e444;
   left: 20%;
   right: 20%;
+}
+
+div.page {
+  font-size: 16px;
+  background-color: #f5fec9;
+  position: absolute;
+  top: 15px;
+  left: 20%;
+  right: 20%;
+  bottom: 0px;
+}
+
+div.poke {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
 }
 
 footer {
