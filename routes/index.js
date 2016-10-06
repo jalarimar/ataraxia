@@ -8,7 +8,7 @@ router.get('/', function(req, res) {
 });
 
 router.get('/adventure', function(req, res) {
-  res.render('pokemon', {title: "Ataraxia"});
+  res.render('adventure', {title: "Ataraxia"});
 });
 
 router.get('/pokemon', function(req, res) {
