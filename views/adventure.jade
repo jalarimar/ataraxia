@@ -3,9 +3,21 @@ extends layout
 block content
   div(class="page")
     h1 Explore
-    p.
-      Use the buttons to navigate through the land of Ataraxia.
-
+    p(id="title").
+      Use the buttons to navigate through the land of Ataraxia. (north, east, south, west)
+    p(id="desc").
+      Description. 
+    p
+      a(id="north")
+        img(src="http://cdn.bulbagarden.net/upload/8/86/Bag_Oran_Berry_Sprite.png")
+      a(id="east")
+        img(src="http://cdn.bulbagarden.net/upload/3/39/Bag_Sitrus_Berry_Sprite.png")
+      a(id="south")
+        img(src="http://cdn.bulbagarden.net/upload/3/31/Bag_Razz_Berry_Sprite.png")
+      a(id="west")
+        img(src="http://cdn.bulbagarden.net/upload/8/8f/Bag_Pecha_Berry_Sprite.png")
+    br
+    br
     a(href="/") Back to Main Page
 
   div(class="poke")
