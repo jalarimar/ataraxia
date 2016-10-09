@@ -7,6 +7,8 @@ body {
   text-align: center; }
 
 h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
   font-size: 70px;
   font-family: spirax, sans-serif;
   color: #83e444; }
@@ -37,6 +39,14 @@ a {
   text-transform: capitalize;
   white-space: pre-line; }
 
+#title {
+  font-weight: bold;
+}
+
+#blocked {
+  font-size: 15px;
+}
+
 div.content {
   background-color: #f5fec9;
   position: absolute;
@@ -60,6 +70,39 @@ div.poke {
   position: absolute;
   right: 0px;
   bottom: 0px; }
+
+#northi:hover {
+  cursor: pointer;
+  fill-opacity: 0.3;
+}
+
+#southi:hover {
+  cursor: pointer;
+  fill-opacity: 0.3;
+}
+
+#easti:hover {
+  cursor: pointer;
+  fill-opacity: 0.3;
+}
+
+#westi:hover {
+  cursor: pointer;
+  fill-opacity: 0.3;
+}
+
+#northarrow:hover {
+  cursor: pointer;
+}
+#southarrow:hover {
+  cursor: pointer;
+}
+#eastarrow:hover {
+  cursor: pointer;
+}
+#westarrow:hover {
+  cursor: pointer;
+}
 
 footer {
   font-size: 14px;

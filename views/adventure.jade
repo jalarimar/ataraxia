@@ -3,19 +3,26 @@ extends layout
 block content
   div(class="page")
     h1 Explore
+    div(class="nav")
+      include ../public/img/forest-1.svg
     p(id="title").
-      Use the buttons to navigate through the land of Ataraxia. (north, east, south, west)
+      Use the buttons below to navigate through the land of Ataraxia.
     p(id="desc").
-      Description. 
-    p
+      Description.
+    p(id="blocked").
+      Oh no! The path in that direction is blocked. Try heading a different way.
+    //p
       a(id="north")
         img(src="http://cdn.bulbagarden.net/upload/8/86/Bag_Oran_Berry_Sprite.png")
-      a(id="east")
+      br
+      a(id="west")
         img(src="http://cdn.bulbagarden.net/upload/3/39/Bag_Sitrus_Berry_Sprite.png")
       a(id="south")
         img(src="http://cdn.bulbagarden.net/upload/3/31/Bag_Razz_Berry_Sprite.png")
-      a(id="west")
+      a(id="east")
         img(src="http://cdn.bulbagarden.net/upload/8/8f/Bag_Pecha_Berry_Sprite.png")
+    div(class="nav")
+      include ../public/img/onetruesign.svg
     br
     br
     a(href="/") Back to Main Page
