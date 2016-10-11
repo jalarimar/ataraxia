@@ -13,6 +13,13 @@ h1 {
   font-family: spirax, sans-serif;
   color: #83e444; }
 
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 50px;
+  font-family: spirax, sans-serif;
+  color: #83e444; }
+
 p {
   margin: 20px; }
 
@@ -47,6 +54,16 @@ a {
   font-size: 15px;
 }
 
+#image {
+  height: 250px;
+  width: 250px;
+}
+
+#vegetable {
+  height: 50px;
+  width: 50px;
+}
+
 div.content {
   background-color: #f5fec9;
   position: absolute;
@@ -70,6 +87,21 @@ div.poke {
   position: absolute;
   right: 0px;
   bottom: 0px; }
+
+div.back {
+  font-size: 14px;
+  position: absolute;
+  left: 20%;
+  right: 20%;
+  bottom: 5px;
+}
+
+div.nav {
+  position: absolute;
+  bottom: 30px;
+  left: 20%;
+  right: 20%;
+}
 
 #northi:hover {
   cursor: pointer;
