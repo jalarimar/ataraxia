@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="svg4416" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" height="100" viewBox="0 0 634.06653 421.34399" width="200" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><defs id="defs4420"><clipPath id="clipPath4592" clipPathUnits="userSpaceOnUse"><path id="path4594" d="m0 800h800v-800h-800v800z"/></clipPath></defs><g id="g4424" transform="matrix(1.25 0 0 -1.25 -185.34 536.45)"><g id="g4588" transform="matrix(1.7271 0 0 1.9715 -288.96 -546.68)"><g id="signpost" clip-path="url(#clipPath4592)"><g id="g4892" transform="translate(491.88 354.69)"><path id="path4894" d="m0 0 54.964-1.94v67.882l-9.64 0.928 9.64 1.402v32.285l-21.703 1.089 21.703 3.156v15.177l-43.783-2 43.783 5.367v16.941h-293.69v-20.811l48.174-9.203-48.174 5.568v-15.862h32.78l-32.78-2.119v-64.529l22.694-1.185-22.694-2.3v-33.245l11.161-1.075-11.161-1.623v-10.59h39.881l-39.881-2.8v-11.2h293.69v26.682l-54.96 3.986z" fill="#b57641"/></g><g id="g4896" transform="translate(541.85 359.75)"><path id="path4898" d="m0 0v-5.065-1.849l5-0.086v67.882l-5 0.482v-61.364z" fill="#99633a"/></g><g id="g4900" transform="translate(541.85 494.97)"><path id="path4902" d="m0 0v-9.941-7.367-0.36l5 0.727v16.941h-5z" fill="#99633a"/></g><g id="g4904" transform="translate(541.85 465.49)"><path id="path4906" d="m0 0v-5.245-1.482l5 0.727v15.177h-5v-9.177z" fill="#99633a"/></g><g id="g4908" transform="translate(541.85 330)"><path id="path4910" d="m0 0h-288.69v-6h293.69v26.682l-5 0.456v-21.138z" fill="#99633a"/></g><g id="g4912" transform="translate(541.85 428.96)"><path id="path4914" d="m0 0v-2.33-4.397l5 0.727v32.285l-5 0.481v-26.766z" fill="#99633a"/></g><g id="g4916" transform="translate(277.83 409.49)"><path id="path4918" d="m0 0c0-3.866-3.134-7-7-7s-7 3.134-7 7 3.134 7 7 7 7-3.134 7-7" fill="#424242"/></g><g id="g4920" transform="translate(536.17 409.49)"><path id="path4922" d="m0 0c0-3.866-3.134-7-7-7s-7 3.134-7 7 3.134 7 7 7 7-3.134 7-7" fill="#424242"/></g></g></g><g id="buttons" transform="matrix(.8 0 0 -.8 182.47 461.03)">
+
+//little arrows
+<g id="northarrow">
+    <path id="northarrow" fill="#5f8dd3" d="m252.92 179.79c-2.558 0-5.115-0.975-7.067-2.925-3.908-3.903-3.911-10.235-0.008-14.143l18.989-19.011c1.875-1.877 4.418-2.932 7.072-2.933h0.003c2.652 0 5.195 1.054 7.071 2.929l18.986 18.986c3.905 3.905 3.905 10.237 0 14.143-3.905 3.904-10.237 3.904-14.143 0l-11.911-11.911-11.919 11.932c-1.95 1.955-4.512 2.933-7.073 2.933z"/></g>
+<g id="southarrow">
+    <path id="path28" fill="#ff2a2a" d="m271.92 350.77c-2.555 0-5.11-0.973-7.063-2.92l-19.024-18.976c-3.91-3.9-3.918-10.231-0.018-14.142s10.231-3.92 14.142-0.019l11.958 11.927 11.938-11.923c3.908-3.903 10.24-3.899 14.142 0.01 3.902 3.908 3.898 10.239-0.009 14.143l-19 18.976c-1.951 1.949-4.508 2.924-7.066 2.924z"/></g>
+<g id="eastarrow">
+    <path id="eastarrow" fill="#37c837" d="m423.93 350.77c-2.559 0-5.118-0.977-7.071-2.929-3.905-3.905-3.905-10.237 0-14.143l11.911-11.911-11.932-11.918c-3.907-3.903-3.911-10.235-0.008-14.143 3.903-3.907 10.235-3.909 14.143-0.008l19.01 18.989c1.877 1.875 2.932 4.419 2.933 7.072 0 2.653-1.053 5.198-2.929 7.074l-18.986 18.986c-1.952 1.954-4.511 2.931-7.071 2.931z"/></g>
+<g id="westarrow">
+    <path id="path36" fill="#ffd42a" d="m119.91 350.77c-2.558 0-5.115-0.975-7.067-2.925l-19.007-18.98c-1.877-1.875-2.932-4.419-2.933-7.072s1.053-5.198 2.929-7.074l18.986-18.986c3.905-3.904 10.237-3.904 14.143 0 3.905 3.905 3.905 10.237 0 14.143l-11.912 11.911 11.932 11.918c3.907 3.903 3.911 10.234 0.008 14.143-1.953 1.953-4.514 2.931-7.075 2.931z"/></g>
+
+//background rectangles
+<rect id="westi" x="54" y="255" width="120" height="120" fill="#fff" stroke="purple"
+       fill-opacity="0" stroke-opacity="0">
+       <set attributeName="fill-opacity" to="0.3"
+	   begin="westarrow.mouseover" end="westarrow.mouseout"/></rect>
+<rect id="southi" x="207" y="255" width="120" height="120" fill="#fff" stroke="purple"
+       fill-opacity="0" stroke-opacity="0"
+       <set attributeName="fill-opacity" to="0.1"
+	   begin="southarrow.mouseover" end="southarrow.mouseout"/></rect>
+<rect id="easti" x="359" y="255" width="120" height="120" fill="#fff" stroke="purple"
+       fill-opacity="0" stroke-opacity="0"
+       <set attributeName="fill-opacity" to="0.1"
+	   begin="eastarrow.mouseover" end="eastarrow.mouseout"/></rect>
+<rect id="northi" x="207" y="105" width="120" height="120" fill="#fff" stroke="purple"
+       fill-opacity="0" stroke-opacity="0"
+       <set attributeName="fill-opacity" to="0.1"
+	   begin="northarrow.mouseover" end="northarrow.mouseout"/></rect>
+
+//outside box
+<g id="westarrow">
+    <path id="path8" fill="#ffd42a" d="m176.91 388.78h-114c-5.523 0-10-4.478-10-10v-114c0-5.522 4.477-10 10-10h114c5.523 0 10 4.478 10 10v114c0 5.523-4.477 10-10 10zm-104-20h94v-94h-94v94z"/></g>
+<g id="southarrow">
+    <path id="path12" fill="#ff2a2a" d="m328.92 388.78h-114c-5.523 0-10-4.478-10-10v-114c0-5.522 4.477-10 10-10h114c5.523 0 10 4.478 10 10v114c0 5.523-4.477 10-10 10zm-104-20h94v-94h-94v94z"/></g>
+<g id="northarrow">
+    <path id="northarrow" fill="#5f8dd3" fill-rule="#fff" d="m328.92 236.78h-114c-5.523 0-10-4.478-10-10v-114c0-5.522 4.477-10 10-10h114c5.523 0 10 4.478 10 10v114c0 5.523-4.477 10-10 10zm-104-20h94v-94h-94v94z"/></g>
+<g id="eastarrow">
+    <path id="eastarrow" fill="#37c837" d="m480.91 388.78h-114c-5.523 0-10-4.478-10-10v-114c0-5.522 4.477-10 10-10h114c5.523 0 10 4.478 10 10v114c0 5.523-4.477 10-10 10zm-104-20h94v-94h-94v94z"/></g>
+
+    
+</g></g></svg>
